@@ -1,1 +1,11 @@
-Test
+28th Aug 2018
+========================
+
+# ES 6 (complete)
+# Object oritented JS
+# Variable scope (let)
+# arrow operator (=>)
+# new datatype in ES6
+# cloursers
+# ReactJS, node JS, mangoDB
+# Full stack development
