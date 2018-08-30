@@ -7,5 +7,6 @@
 # arrow operator (=>)
 # new datatype in ES6
 # cloursers
+# Use of "this" keyword.
 # ReactJS, node JS, mangoDB
 # Full stack development
